@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Trang-1" id="CI8di9rLiQpdFGG0MDd3">
+    <mxGraphModel dx="786" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rv5LHFq7l9XG666zRjIo-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-1" value="Bắt đầu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Rv5LHFq7l9XG666zRjIo-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="280" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rv5LHFq7l9XG666zRjIo-4" target="Rv5LHFq7l9XG666zRjIo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-4" value="&lt;br&gt;&lt;span style=&quot;&quot; data-end=&quot;500&quot; data-start=&quot;465&quot;&gt;Hệ thống tìm chuyến bay phù hợp&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="320" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rv5LHFq7l9XG666zRjIo-5" target="Rv5LHFq7l9XG666zRjIo-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-5" value="&#xa;Có chuyến bay phù hợp?&#xa;&#xa;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rv5LHFq7l9XG666zRjIo-6" target="Rv5LHFq7l9XG666zRjIo-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-6" value="&lt;br&gt;&lt;span style=&quot;&quot; data-end=&quot;909&quot; data-start=&quot;865&quot;&gt;Khách hàng chọn chuyến bay và thanh toán&lt;/span&gt; &lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="610" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rv5LHFq7l9XG666zRjIo-8" target="Rv5LHFq7l9XG666zRjIo-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-8" value="&lt;div style=&quot;line-height: 90%;&quot;&gt;&lt;br&gt;Thanh toán thành công?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="105" y="860" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rv5LHFq7l9XG666zRjIo-9" target="Rv5LHFq7l9XG666zRjIo-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-9" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;br&gt;Xuất vé điện tử / xác nhận đặt chỗ&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="980" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-10" value="Kết thúc" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-21" value="&#xa;Khách hàng nhập thông tin đặt vé&#xa;&#xa;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="190" width="205" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rv5LHFq7l9XG666zRjIo-24" target="Rv5LHFq7l9XG666zRjIo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rv5LHFq7l9XG666zRjIo-24" target="Rv5LHFq7l9XG666zRjIo-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rv5LHFq7l9XG666zRjIo-24" value="&#xa;Xử lý thanh toán&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="740" width="200" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
